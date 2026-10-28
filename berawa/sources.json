@@ -1,0 +1,76 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://playasol.com/es/",
+ "read_at": "2026-10-29T00:01:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://playasol.com/es/",
+   "sha256": "0768051e81dde87c423ac85dd8102856542324c31254e470268bb8e6b22e1b96",
+   "chars": 3910
+  },
+  {
+   "url": "https://playasol.com/es/aviso-legal-y-cookies.html",
+   "sha256": "4700d7b0e00efabe6c3f6144360e6f0dfad4a85cd3919549a4ac3f72ae22e395",
+   "chars": 9095
+  },
+  {
+   "url": "https://playasol.com/es/cadaques.html",
+   "sha256": "5a7d663150debce7082a9339d12112762bf899ff830aef781d2a709eb8ae1339",
+   "chars": 3052
+  },
+  {
+   "url": "https://playasol.com/es/habitaciones.html",
+   "sha256": "a11fa2b20ec8527996e4825e5bc6398116c8cac961f924561c8815815601c2a0",
+   "chars": 2271
+  },
+  {
+   "url": "https://playasol.com/es/habitaciones/habitaciones-vista-mar-confort.html",
+   "sha256": "b1e2bdcffbf6445b381c04756179aba540f9a8314a502e504e633f753bc353f4",
+   "chars": 1878
+  },
+  {
+   "url": "https://playasol.com/es/habitaciones/habitaciones-vistas-al-mar.html",
+   "sha256": "b7e0c390780ba545439d87a2ee7e640aa1715f117da09394b4d493774f8457d0",
+   "chars": 1558
+  },
+  {
+   "url": "https://playasol.com/es/informacion.html",
+   "sha256": "c2f2d8e202ab3102865d4b6007769f50a2a8f9393566f436173ff354422733bf",
+   "chars": 1106
+  },
+  {
+   "url": "https://playasol.com/es/instalaciones.html",
+   "sha256": "4900dcf6ea43cf97e33af4785f32fa043761f3eedf2f54146f02db2a132d8b6d",
+   "chars": 3799
+  },
+  {
+   "url": "https://playasol.com/es/instalaciones/piscina-exterior-climatizada.html",
+   "sha256": "3ca361aafa2b9826dec3306d3b34096b0cd23f77381e88058738dd995b62ae79",
+   "chars": 1397
+  }
+ ],
+ "other_pages_read": [
+  "https://playasol.com/ca/",
+  "https://playasol.com/ca/cadaques.html",
+  "https://playasol.com/ca/habitacions.html",
+  "https://playasol.com/ca/habitacions/habitacio-adaptada.html",
+  "https://playasol.com/ca/habitacions/habitacions-familiars.html",
+  "https://playasol.com/ca/habitacions/habitacions-vista-jardi.html",
+  "https://playasol.com/ca/habitacions/habitacions-vistes-mar-confort.html",
+  "https://playasol.com/ca/informacio.html",
+  "https://playasol.com/ca/instal-lacions.html",
+  "https://playasol.com/ca/instal-lacions/menjador-d-esmorzars-amb-bufet-lliure.html",
+  "https://playasol.com/ca/instal-lacions/piscina-exterior-climatitzada.html",
+  "https://playasol.com/ca/la-meva-reserva.html",
+  "https://playasol.com/ca/reservar.html",
+  "https://playasol.com/de/",
+  "https://playasol.com/en/",
+  "https://playasol.com/es/habitaciones/habitaciones-vista-jardin.html",
+  "https://playasol.com/es/instalaciones/pista-deportiva-con-baloncesto-y-tenis.html",
+  "https://playasol.com/es/instalaciones/salon-de-television.html",
+  "https://playasol.com/es/mi-reserva.html",
+  "https://playasol.com/es/reservar.html",
+  "https://playasol.com/fr/"
+ ]
+}
