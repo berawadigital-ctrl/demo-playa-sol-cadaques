@@ -731,7 +731,7 @@
      " ou ",
      "adresse",
      "situe",
-     "carte",
+     "sur la carte",
      "plage",
      "centre",
      "venir",
@@ -866,6 +866,7 @@
     ],
     "ca": [
      "estrella",
+     "estrelles",
      "categoria",
      "quatre estrelles"
     ],
@@ -876,6 +877,8 @@
     ],
     "fr": [
      "etoile",
+     "etoiles",
+     "d etoiles",
      "categorie",
      "quatre etoiles"
     ]
