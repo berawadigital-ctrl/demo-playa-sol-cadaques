@@ -1,0 +1,452 @@
+{
+ "url": "http://127.0.0.1:44765/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué tipos de habitación tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 6 tipos: vista mar confort (balcón o terraza grande con suplemento; dobles, triples y cuádruples con 3 adultos y 1 niño), vistas al mar "
+    },
+    {
+     "q": "¿Tienen minibar y caja fuerte?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen mini nevera, caja fuerte, secador de pelo, amenities ecológicos, televisión por satélite de 80 canales en 6 idiomas,"
+    },
+    {
+     "q": "¿Hay piscina y jacuzzi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Hay una piscina exterior de 17 x 8 metros, climatizada del 15 de mayo al 15 de octubre, jacuzzi al aire libre (abierto del 15 de abril a oct"
+    },
+    {
+     "q": "¿A qué hora es el desayuno?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Hay desayuno de bufet libre cada día, de 8 a 11 de la mañana. En verano, de junio a septiembre, sirven comida al mediodía en un restaurante "
+    },
+    {
+     "q": "¿Se puede alquilar bicicleta o kayak?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "El hotel tiene pista de baloncesto y tenis con medidas de pádel, ping-pong y petanca, y alquiler de bicicletas todo terreno (eléctricas y no"
+    },
+    {
+     "q": "¿Tienen garaje?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Hay un garaje cubierto y vigilado en 3 plantas, con control de acceso y capacidad para 35 coches. Es de pago y bajo reserva, sujeto a dispon"
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "No se aceptan mascotas."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar en su sistema de reserva online, con pasarela de pago, o contactar con su departamento de reservas por correo o por teléfono"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Teléfono +34 972 258 100 (reservas de 8:30 a 21:30) y correo playasol@playasol.com."
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Está en Platja Pianc, 3 (17488 Cadaqués), en la bahía de Cadaqués, a primera línea de mar y a pocos metros del centro, con una pequeña playa"
+    },
+    {
+     "q": "¿Qué ver cerca de Cadaqués?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Cadaqués es un pequeño pueblo marinero en el punto más oriental de la Península Ibérica, a 35 km de la frontera francesa. Cerca están Port-L"
+    },
+    {
+     "q": "¿Cuántas estrellas tiene?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Según su web, es un hotel de cuatro estrellas."
+    },
+    {
+     "q": "¿Hay habitación adaptada?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Hay una habitación adaptada, con reserva previa: es una doble de 2 camas (bajo petición, de matrimonio) con el confort de las vistas al mar,"
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "K14",
+     "ok": true,
+     "respuesta": "Su web no publica tarifas: consulta precios y disponibilidad en su sistema de reserva online o llamando al +34 972 258 100. Consultar por Wh"
+    },
+    {
+     "q": "¿Tienen gimnasio con sala de máquinas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 972 258 100 · playasol@playasol.com."
+    },
+    {
+     "q": "Confírmame que hay disponibilidad mañana",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar en su sistema de reserva online, con pasarela de pago, o contactar con su departamento de reservas por correo o por teléfono"
+    }
+   ],
+   "chips": [
+    "¿Qué tipos de habitación hay?",
+    "¿Admitís mascotas?",
+    "¿Hay piscina y spa?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "send",
+    "stat3",
+    "room0_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quins tipus d'habitació teniu?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hi ha 6 tipus: vista mar confort (balcó o terrassa gran amb suplement; dobles, triples i quàdruples amb 3 adults i 1 nen), vistes al mar (do"
+    },
+    {
+     "q": "Teniu nevera i caixa forta?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen mini nevera, caixa forta, assecador de cabells, amenities ecològics, televisió per satèl·lit de 80 canals en 6 idiomes"
+    },
+    {
+     "q": "Hi ha piscina i jacuzzi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Hi ha una piscina exterior de 17 x 8 metres, climatitzada del 15 de maig al 15 d'octubre, jacuzzi a l'aire lliure (obert del 15 d'abril a oc"
+    },
+    {
+     "q": "A quina hora és l'esmorzar?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Hi ha esmorzar de bufet lliure cada dia, de 8 a 11 del matí. A l'estiu, de juny a setembre, serveixen dinar al migdia en un restaurant a la "
+    },
+    {
+     "q": "Es pot llogar bicicleta o caiac?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "L'hotel té pista de basquet i tennis amb mesures de pàdel, ping-pong i petanca, i lloguer de bicicletes tot terreny (elèctriques i no motori"
+    },
+    {
+     "q": "Teniu garatge?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Hi ha un garatge cobert i vigilat en 3 plantes, amb control d'accés i capacitat per a 35 cotxes. És de pagament i sota reserva, subjecte a d"
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "No s'accepten mascotes."
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Pots reservar al seu sistema de reserva en línia, amb passarel·la de pagament, o contactar amb el seu departament de reserves per correu o p"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Telèfon +34 972 258 100 (reserves de 8:30 a 21:30) i correu playasol@playasol.com."
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "És a Platja Pianc, 3 (17488 Cadaqués), a la badia de Cadaqués, en primera línia de mar i a pocs metres del centre, amb una petita platja al "
+    },
+    {
+     "q": "Què veure a prop de Cadaqués?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Cadaqués és un petit poble mariner al punt més oriental de la Península Ibèrica, a 35 km de la frontera francesa. A prop hi ha Port-Lligat ("
+    },
+    {
+     "q": "Quantes estrelles té?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Segons la seva web, és un hotel de quatre estrelles."
+    },
+    {
+     "q": "Hi ha habitació adaptada?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Hi ha una habitació adaptada, amb reserva prèvia: és una doble de 2 llits (a petició, de matrimoni) amb el confort de les vistes al mar, per"
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "K14",
+     "ok": true,
+     "respuesta": "La seva web no publica tarifes: consulta preus i disponibilitat al seu sistema de reserva en línia o trucant al +34 972 258 100. Consultar p"
+    },
+    {
+     "q": "Teniu gimnàs amb sala de màquines?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 972 258 100 · playasol@playasol.com."
+    },
+    {
+     "q": "Confirma'm que hi ha disponibilitat demà",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Pots reservar al seu sistema de reserva en línia, amb passarel·la de pagament, o contactar amb el seu departament de reserves per correu o p"
+    }
+   ],
+   "chips": [
+    "Quins tipus d'habitació hi ha?",
+    "Admeteu mascotes?",
+    "Hi ha piscina i spa?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat3"
+   ],
+   "chat": [
+    {
+     "q": "What room types do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 6 types: comfort sea view (balcony or large terrace with a supplement; double, triple and quadruple with 3 adults and 1 child), se"
+    },
+    {
+     "q": "Do they have a fridge and a safe?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have a mini fridge, a safe, a hairdryer, eco amenities, satellite TV with 80 channels in 6 languages, free WiFi and climate contro"
+    },
+    {
+     "q": "Is there a pool and a jacuzzi?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "There is an outdoor pool of 17 x 8 metres, heated from 15 May to 15 October, an open-air jacuzzi (open from 15 April to October) and a small"
+    },
+    {
+     "q": "What time is breakfast?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Buffet breakfast is served every day, from 8 to 11 in the morning. In summer, from June to September, lunch is served at midday in an à la c"
+    },
+    {
+     "q": "Can I rent a bike or a kayak?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "The hotel has a basketball and tennis court with padel dimensions, ping-pong and petanque, and rents all-terrain bikes (electric and non-mot"
+    },
+    {
+     "q": "Do you have a garage?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "There is a covered, guarded garage on 3 levels, with access control and room for 35 cars. It is paid and by reservation, subject to availabi"
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Pets are not accepted."
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book through their online booking system, with a payment gateway, or contact their reservations department by email or phone (+34 97"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Phone +34 972 258 100 (reservations 8:30 to 21:30) and email playasol@playasol.com."
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "It is at Platja Pianc 3 (17488 Cadaqués), on the bay of Cadaqués, on the seafront and a few metres from the centre, with a small beach in fr"
+    },
+    {
+     "q": "What is there to see near Cadaqués?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Cadaqués is a small seafaring village at the easternmost point of the Iberian Peninsula, 35 km from the French border. Nearby are Port-Lliga"
+    },
+    {
+     "q": "How many stars does it have?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "According to its website, it is a four-star hotel."
+    },
+    {
+     "q": "Is there an adapted room?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "There is an adapted room, by advance booking: a twin room with 2 beds (a double on request) with the comfort of the sea-view rooms, but with"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "K14",
+     "ok": true,
+     "respuesta": "Their website does not publish rates: check prices and availability in their online booking system or call +34 972 258 100. Ask on WhatsApp "
+    },
+    {
+     "q": "Is there a gym with weight machines?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 972 258 100 · playasol@playasol.com."
+    },
+    {
+     "q": "Confirm that there is availability tomorrow",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book through their online booking system, with a payment gateway, or contact their reservations department by email or phone (+34 97"
+    }
+   ],
+   "chips": [
+    "What room types are there?",
+    "Are pets allowed?",
+    "Is there a pool and spa?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat3"
+   ],
+   "chat": [
+    {
+     "q": "Quels types de chambre avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 6 types : vue mer confort (balcon ou grande terrasse avec supplément ; doubles, triples et quadruples avec 3 adultes et 1 enfant), vu"
+    },
+    {
+     "q": "Y a-t-il un frigo et un coffre-fort ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres ont mini-réfrigérateur, coffre-fort, sèche-cheveux, produits d'accueil écologiques, télévision par satellite de 80 chaînes en 6"
+    },
+    {
+     "q": "Y a-t-il une piscine et un jacuzzi ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Il y a une piscine extérieure de 17 x 8 mètres, chauffée du 15 mai au 15 octobre, un jacuzzi en plein air (ouvert du 15 avril à octobre) et "
+    },
+    {
+     "q": "À quelle heure est le petit déjeuner ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Un petit-déjeuner buffet est servi chaque jour, de 8 h à 11 h. En été, de juin à septembre, le déjeuner est servi à midi dans un restaurant "
+    },
+    {
+     "q": "Peut-on louer un vélo ou un kayak ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "L'hôtel dispose d'un terrain de basket et de tennis aux dimensions de padel, de ping-pong et de pétanque, et loue des vélos tout terrain (él"
+    },
+    {
+     "q": "Avez-vous un garage ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Il y a un garage couvert et surveillé sur 3 niveaux, avec contrôle d'accès et une capacité de 35 voitures. Il est payant et sur réservation,"
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Les animaux ne sont pas acceptés."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver via leur système de réservation en ligne, avec passerelle de paiement, ou contacter leur service des réservations par e"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Téléphone +34 972 258 100 (réservations de 8 h 30 à 21 h 30) et e-mail playasol@playasol.com."
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Il est situé à Platja Pianc 3 (17488 Cadaqués), sur la baie de Cadaqués, en première ligne de mer et à quelques mètres du centre, avec une p"
+    },
+    {
+     "q": "Que voir près de Cadaqués ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Cadaqués est un petit village de pêcheurs au point le plus oriental de la péninsule Ibérique, à 35 km de la frontière française. À proximité"
+    },
+    {
+     "q": "Combien d'étoiles a-t-il ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Selon son site, c'est un hôtel quatre étoiles."
+    },
+    {
+     "q": "Y a-t-il une chambre adaptée ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Il y a une chambre adaptée, sur réservation préalable : une chambre à 2 lits (lit double sur demande) avec le confort des chambres vue mer, "
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "K14",
+     "ok": true,
+     "respuesta": "Leur site ne publie pas de tarifs : consultez prix et disponibilités dans leur système de réservation en ligne ou appelez le +34 972 258 100"
+    },
+    {
+     "q": "Y a-t-il une salle de musculation avec des appareils ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 972 258 100 · playasol@playasol.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a de la disponibilité demain",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver via leur système de réservation en ligne, avec passerelle de paiement, ou contacter leur service des réservations par e"
+    }
+   ],
+   "chips": [
+    "Quels types de chambre y a-t-il ?",
+    "Les animaux sont-ils admis ?",
+    "Y a-t-il une piscine et un spa ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

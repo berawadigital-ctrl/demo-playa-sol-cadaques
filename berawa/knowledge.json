@@ -1,0 +1,1031 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-playa-sol-cadaques",
+ "source_site": "https://playasol.com/es/",
+ "source_read_at": "2026-10-29T00:01:00+01:00",
+ "note": "Respuestas solo con datos publicados en playasol.com. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "tipos de",
+     "dobles",
+     "triples",
+     "familiar",
+     "cuadruple",
+     "cama",
+     "suplemento",
+     "capacidad",
+     "cuantas personas",
+     "vista mar",
+     "vista jardin",
+     "situacion norte"
+    ],
+    "ca": [
+     "habitacio",
+     "tipus d",
+     "dobles",
+     "triples",
+     "familiar",
+     "quadruple",
+     " llit",
+     "suplement",
+     "capacitat",
+     "quantes persones",
+     "vista mar",
+     "vista jardi",
+     "situacio nord"
+    ],
+    "en": [
+     "room",
+     "double",
+     "triple",
+     "family",
+     "bed",
+     "supplement",
+     "capacity",
+     "how many guests",
+     "sea view",
+     "garden view",
+     "north"
+    ],
+    "fr": [
+     "chambre",
+     "double",
+     "triple",
+     "familiale",
+     "lit",
+     "supplement",
+     "capacite",
+     "combien de personnes",
+     "vue mer",
+     "vue jardin",
+     "cote nord"
+    ]
+   },
+   "a": {
+    "es": "Hay 6 tipos: vista mar confort (balcón o terraza grande con suplemento; dobles, triples y cuádruples con 3 adultos y 1 niño), vistas al mar (dobles con balcón), situación norte (en su mayoría dobles y tres triples, sin cama supletoria), vista jardín (dobles con balcón), 6 habitaciones familiares y una habitación adaptada con reserva previa.",
+    "ca": "Hi ha 6 tipus: vista mar confort (balcó o terrassa gran amb suplement; dobles, triples i quàdruples amb 3 adults i 1 nen), vistes al mar (dobles amb balcó), situació nord (majoritàriament dobles i tres triples, sense llit supletori), vista jardí (dobles amb balcó), 6 habitacions familiars i una habitació adaptada amb reserva prèvia.",
+    "en": "There are 6 types: comfort sea view (balcony or large terrace with a supplement; double, triple and quadruple with 3 adults and 1 child), sea views (doubles with balcony), north-facing (mostly doubles and three triples, no extra bed), garden view (doubles with balcony), 6 family rooms and an adapted room by advance booking.",
+    "fr": "Il y a 6 types : vue mer confort (balcon ou grande terrasse avec supplément ; doubles, triples et quadruples avec 3 adultes et 1 enfant), vues sur la mer (doubles avec balcon), côté nord (pour la plupart doubles et trois triples, sans lit supplémentaire), vue jardin (doubles avec balcon), 6 chambres familiales et une chambre adaptée sur réservation préalable."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "Las habitaciones vista mar confort disponen de balcón o terraza grande (con suplemento)"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "Pueden ser dobles, triples y cuádruples (3 adultos y 1 niño)"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "Las habitaciones con vistas al mar son dobles con cama de matrimonio o 2 camas individuales"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "Las habitaciones situación norte son en su mayoría dobles, pero disponemos de tres triples"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "En estas habitaciones NO se puede añadir ninguna cama supletoria"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "Las habitaciones con vistas al jardín son todas dobles con cama de matrimonio o dos camas individuales"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "Las habitaciones familiares disponemos en total 6 unidades"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "HABITACION ADAPTADA CON RESERVA PREVIA"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "equip",
+     "nevera",
+     "caja fuerte",
+     "secador",
+     "climatizacion",
+     "television",
+     "bluetooth",
+     "amenities",
+     "wifi",
+     "internet",
+     "telefono de la habitacion",
+     "banera",
+     "ducha"
+    ],
+    "ca": [
+     "equip",
+     "nevera",
+     "caixa forta",
+     "assecador",
+     "climatitzacio",
+     "televisio",
+     "bluetooth",
+     "amenities",
+     "wifi",
+     "internet",
+     "banyera",
+     "dutxa"
+    ],
+    "en": [
+     "equip",
+     "fridge",
+     " safe ",
+     "hairdryer",
+     "air conditioning",
+     "television",
+     " tv ",
+     "bluetooth",
+     "amenities",
+     "wifi",
+     "internet",
+     "bathtub",
+     " bath ",
+     "shower"
+    ],
+    "fr": [
+     "equip",
+     "frigo",
+     "coffre",
+     "seche cheveux",
+     "climatisation",
+     "television",
+     "bluetooth",
+     "amenities",
+     "wifi",
+     "internet",
+     "baignoire",
+     "douche"
+    ]
+   },
+   "a": {
+    "es": "Las habitaciones tienen mini nevera, caja fuerte, secador de pelo, amenities ecológicos, televisión por satélite de 80 canales en 6 idiomas, WiFi gratuito y climatización. Las de vista mar confort tienen bañera separada de la ducha y música ambiente en el baño con Bluetooth; las de vistas al mar, una amplia ducha.",
+    "ca": "Les habitacions tenen mini nevera, caixa forta, assecador de cabells, amenities ecològics, televisió per satèl·lit de 80 canals en 6 idiomes, WiFi gratuït i climatització. Les de vista mar confort tenen banyera separada de la dutxa i música ambient al bany amb Bluetooth; les de vistes al mar, una àmplia dutxa.",
+    "en": "The rooms have a mini fridge, a safe, a hairdryer, eco amenities, satellite TV with 80 channels in 6 languages, free WiFi and climate control. The comfort sea-view rooms have a bath separate from the shower and ambient music in the bathroom with Bluetooth; the sea-view rooms have a large shower.",
+    "fr": "Les chambres ont mini-réfrigérateur, coffre-fort, sèche-cheveux, produits d'accueil écologiques, télévision par satellite de 80 chaînes en 6 langues, WiFi gratuit et climatisation. Celles de vue mer confort ont une baignoire séparée de la douche et de la musique d'ambiance dans la salle de bain avec Bluetooth ; celles vue sur la mer, une grande douche."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/habitaciones/habitaciones-vistas-al-mar.html",
+     "quote": "Mini nevera"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones/habitaciones-vistas-al-mar.html",
+     "quote": "Caja fuerte apta para portátiles"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones/habitaciones-vistas-al-mar.html",
+     "quote": "Secador de pelo"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones/habitaciones-vistas-al-mar.html",
+     "quote": "Amenities ecológicos"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones/habitaciones-vistas-al-mar.html",
+     "quote": "Televisión por satélite 80 canales en 6 idiomas"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones/habitaciones-vistas-al-mar.html",
+     "quote": "Internet WI-Fi gratuito"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones/habitaciones-vistas-al-mar.html",
+     "quote": "Cuarto de baño con amplia ducha"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones/habitaciones-vista-mar-confort.html",
+     "quote": "Cuartos de baño con bañera y ducha separada"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones/habitaciones-vista-mar-confort.html",
+     "quote": "Instalación de música de ambiente en el baño con conectividad bluetooth"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "piscina y spa",
+   "keys": {
+    "es": [
+     "piscina",
+     "spa",
+     "jacuzzi",
+     "vapor",
+     "sauna",
+     "ducha escocesa",
+     "jardin",
+     "tumbona",
+     "bienestar"
+    ],
+    "ca": [
+     "piscina",
+     "spa",
+     "jacuzzi",
+     "vapor",
+     "sauna",
+     "dutxa escocesa",
+     "jardi",
+     "gandula",
+     "benestar"
+    ],
+    "en": [
+     "pool",
+     "spa",
+     "jacuzzi",
+     "steam",
+     "sauna",
+     "scottish shower",
+     "garden",
+     "sun lounger",
+     "wellness"
+    ],
+    "fr": [
+     "piscine",
+     "spa",
+     "jacuzzi",
+     "vapeur",
+     "sauna",
+     "douche ecossaise",
+     "jardin",
+     "transat",
+     "bien etre"
+    ]
+   },
+   "a": {
+    "es": "Hay una piscina exterior de 17 x 8 metros, climatizada del 15 de mayo al 15 de octubre, jacuzzi al aire libre (abierto del 15 de abril a octubre) y una pequeña sala de spa en el jardín con sauna de vapor para 5 a 6 personas y ducha escocesa. El jardín es de olivos y pinos, con zonas de césped y tumbonas.",
+    "ca": "Hi ha una piscina exterior de 17 x 8 metres, climatitzada del 15 de maig al 15 d'octubre, jacuzzi a l'aire lliure (obert del 15 d'abril a octubre) i una petita sala d'spa al jardí amb sauna de vapor per a 5 a 6 persones i dutxa escocesa. El jardí és d'oliveres i pins, amb zones de gespa i gandules.",
+    "en": "There is an outdoor pool of 17 x 8 metres, heated from 15 May to 15 October, an open-air jacuzzi (open from 15 April to October) and a small spa room in the garden with a steam sauna for 5 to 6 people and a Scottish shower. The garden has olive and pine trees, with lawn areas and sun loungers.",
+    "fr": "Il y a une piscine extérieure de 17 x 8 mètres, chauffée du 15 mai au 15 octobre, un jacuzzi en plein air (ouvert du 15 avril à octobre) et une petite salle de spa dans le jardin avec sauna à vapeur pour 5 à 6 personnes et douche écossaise. Le jardin compte des oliviers et des pins, avec des pelouses et des transats."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/instalaciones/piscina-exterior-climatizada.html",
+     "quote": "Nuestra piscina de 17 x 8 metros"
+    },
+    {
+     "url": "https://playasol.com/es/instalaciones/piscina-exterior-climatizada.html",
+     "quote": "climatizada del 15 de mayo al 15 de octubre"
+    },
+    {
+     "url": "https://playasol.com/es/instalaciones.html",
+     "quote": "abierto del 15 de abril a octubre"
+    },
+    {
+     "url": "https://playasol.com/es/instalaciones.html",
+     "quote": "pequeña pero acogedora sala de Spa situada en el jardín"
+    },
+    {
+     "url": "https://playasol.com/es/instalaciones.html",
+     "quote": "una sauna de vapor para 5 a 6 personas y una ducha escocesa"
+    },
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "un gran jardín de olivos y pinos"
+    },
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "2 zonas de césped natural con tumbonas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "restaurante y desayuno",
+   "keys": {
+    "es": [
+     "restaurante",
+     "desayuno",
+     "comer",
+     "almorzar",
+     "cenar",
+     "carta",
+     "bar",
+     "loungebar",
+     "buffet",
+     "bufet",
+     "almuerzo"
+    ],
+    "ca": [
+     "restaurant",
+     "esmorzar",
+     "menjar",
+     "dinar",
+     "sopar",
+     "carta",
+     " bar ",
+     "loungebar",
+     "bufet",
+     "berenar"
+    ],
+    "en": [
+     "restaurant",
+     "breakfast",
+     "eat",
+     "lunch",
+     "dinner",
+     "menu",
+     " bar ",
+     "lounge",
+     "buffet"
+    ],
+    "fr": [
+     "restaurant",
+     "petit dejeuner",
+     "manger",
+     "dejeuner",
+     "diner",
+     "carte",
+     " bar ",
+     "lounge",
+     "buffet"
+    ]
+   },
+   "a": {
+    "es": "Hay desayuno de bufet libre cada día, de 8 a 11 de la mañana. En verano, de junio a septiembre, sirven comida al mediodía en un restaurante a la carta en el jardín, junto a la piscina; hay también Loungebar y bar de la piscina, y el bar tiene una terraza con vistas a la bahía.",
+    "ca": "Hi ha esmorzar de bufet lliure cada dia, de 8 a 11 del matí. A l'estiu, de juny a setembre, serveixen dinar al migdia en un restaurant a la carta al jardí, vora la piscina; hi ha també Loungebar i bar de la piscina, i el bar té una terrassa amb vistes a la badia.",
+    "en": "Buffet breakfast is served every day, from 8 to 11 in the morning. In summer, from June to September, lunch is served at midday in an à la carte restaurant in the garden by the pool; there is also a Loungebar and a pool bar, and the bar has a terrace overlooking the bay.",
+    "fr": "Un petit-déjeuner buffet est servi chaque jour, de 8 h à 11 h. En été, de juin à septembre, le déjeuner est servi à midi dans un restaurant à la carte dans le jardin, près de la piscine ; il y a aussi un Loungebar et un bar de la piscine, et le bar a une terrasse avec vue sur la baie."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/instalaciones.html",
+     "quote": "cada día, de 8 a 11 de la mañana"
+    },
+    {
+     "url": "https://playasol.com/es/instalaciones.html",
+     "quote": "En verano, de junio a septiembre, al mediodía, el Hotel Playasol les ofrece el servicio de Restaurante a la Carta"
+    },
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "restaurante del jardín junto a la piscina"
+    },
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "Loungebar"
+    },
+    {
+     "url": "https://playasol.com/es/instalaciones.html",
+     "quote": "Bar con terraza panorámica"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "deporte y actividades",
+   "keys": {
+    "es": [
+     "deporte",
+     "baloncesto",
+     "tenis",
+     "padel",
+     "ping pong",
+     "petanca",
+     "bicicleta",
+     "kayak",
+     "actividad",
+     "buceo"
+    ],
+    "ca": [
+     "esport",
+     "basquet",
+     "tennis",
+     "padel",
+     "ping pong",
+     "petanca",
+     "bicicleta",
+     "caiac",
+     "activitat",
+     "busseig"
+    ],
+    "en": [
+     "sport",
+     "basketball",
+     "tennis",
+     "padel",
+     "ping pong",
+     "petanque",
+     "bike",
+     "kayak",
+     "activit",
+     "diving"
+    ],
+    "fr": [
+     "sport",
+     "basket",
+     "tennis",
+     "padel",
+     "ping pong",
+     "petanque",
+     "velo",
+     "kayak",
+     "activit",
+     "plongee"
+    ]
+   },
+   "a": {
+    "es": "El hotel tiene pista de baloncesto y tenis con medidas de pádel, ping-pong y petanca, y alquiler de bicicletas todo terreno (eléctricas y no motorizadas) y kayaks dobles e individuales. En la zona se puede bucear en Cap de Creus o alquilar embarcaciones.",
+    "ca": "L'hotel té pista de basquet i tennis amb mesures de pàdel, ping-pong i petanca, i lloguer de bicicletes tot terreny (elèctriques i no motoritzades) i caiacs dobles i individuals. A la zona es pot bussejar al Cap de Creus o llogar embarcacions.",
+    "en": "The hotel has a basketball and tennis court with padel dimensions, ping-pong and petanque, and rents all-terrain bikes (electric and non-motorised) and double and single kayaks. In the area you can dive at Cap de Creus or rent boats.",
+    "fr": "L'hôtel dispose d'un terrain de basket et de tennis aux dimensions de padel, de ping-pong et de pétanque, et loue des vélos tout terrain (électriques et non motorisés) et des kayaks doubles et individuels. Dans la région, on peut plonger au Cap de Creus ou louer des embarcations."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "alquiler de bicicletas todo terreno tanto eléctricas como no motorizadas y kayaks dobles e individuales"
+    },
+    {
+     "url": "https://playasol.com/es/instalaciones.html",
+     "quote": "una pista de baloncesto y tenis con medidas de pádel"
+    },
+    {
+     "url": "https://playasol.com/es/instalaciones.html",
+     "quote": "Mesa de Ping-Pong"
+    },
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "desde buceo en Cap de Creus hasta alquilar embarcaciones de recreo"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "garaje",
+   "keys": {
+    "es": [
+     "garaje",
+     "parking",
+     "aparcar",
+     "aparcamiento",
+     "coche",
+     "vehiculo"
+    ],
+    "ca": [
+     "garatge",
+     "parking",
+     "aparcar",
+     "aparcament",
+     "cotxe",
+     "vehicle"
+    ],
+    "en": [
+     "garage",
+     "parking",
+     "car park",
+     " car ",
+     "vehicle"
+    ],
+    "fr": [
+     "garage",
+     "parking",
+     "stationnement",
+     "voiture",
+     "vehicule"
+    ]
+   },
+   "a": {
+    "es": "Hay un garaje cubierto y vigilado en 3 plantas, con control de acceso y capacidad para 35 coches. Es de pago y bajo reserva, sujeto a disponibilidad; la web no publica el precio.",
+    "ca": "Hi ha un garatge cobert i vigilat en 3 plantes, amb control d'accés i capacitat per a 35 cotxes. És de pagament i sota reserva, subjecte a disponibilitat; la web no publica el preu.",
+    "en": "There is a covered, guarded garage on 3 levels, with access control and room for 35 cars. It is paid and by reservation, subject to availability; the website does not publish the price.",
+    "fr": "Il y a un garage couvert et surveillé sur 3 niveaux, avec contrôle d'accès et une capacité de 35 voitures. Il est payant et sur réservation, selon disponibilité ; le site ne publie pas le tarif."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/instalaciones.html",
+     "quote": "El servicio de garaje del vehículo es de pago y bajo reserva, siempre sujeto a disponibilidad"
+    },
+    {
+     "url": "https://playasol.com/es/instalaciones.html",
+     "quote": "tres plantas de garaje vigilado"
+    },
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "El hotel dispone de 3 plantas de garaje con vigilancia para un total de 35 coches"
+    },
+    {
+     "url": "https://playasol.com/es/instalaciones.html",
+     "quote": "!€"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "mascotas",
+   "keys": {
+    "es": [
+     "mascota",
+     "perro",
+     " gato ",
+     "animal"
+    ],
+    "ca": [
+     "mascot",
+     " gos ",
+     " gat ",
+     "animal"
+    ],
+    "en": [
+     " pet",
+     " dog ",
+     " cat ",
+     "animal"
+    ],
+    "fr": [
+     "animaux",
+     "animal",
+     " chien ",
+     " chat "
+    ]
+   },
+   "a": {
+    "es": "No se aceptan mascotas.",
+    "ca": "No s'accepten mascotes.",
+    "en": "Pets are not accepted.",
+    "fr": "Les animaux ne sont pas acceptés."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "No se aceptan mascotas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "fechas",
+     "pasarela",
+     "pago",
+     "online"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "dates",
+     "passarel",
+     "pagament",
+     "en linia"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "dates",
+     "payment",
+     "online"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "dates",
+     "paiement",
+     "en ligne"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su sistema de reserva online, con pasarela de pago, o contactar con su departamento de reservas por correo o por teléfono (+34 972 258 100, de 8:30 a 21:30). Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar al seu sistema de reserva en línia, amb passarel·la de pagament, o contactar amb el seu departament de reserves per correu o per telèfon (+34 972 258 100, de 8:30 a 21:30). Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book through their online booking system, with a payment gateway, or contact their reservations department by email or phone (+34 972 258 100, 8:30 to 21:30). This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver via leur système de réservation en ligne, avec passerelle de paiement, ou contacter leur service des réservations par e-mail ou par téléphone (+34 972 258 100, de 8 h 30 à 21 h 30). Cet assistant ne confirme ni disponibilité ni réservation."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/informacion.html",
+     "quote": "pone a su disposición su sistema de reserva online en nuestra página web www.playasol.com con pasarela de pago"
+    },
+    {
+     "url": "https://playasol.com/es/informacion.html",
+     "quote": "telefónicamente al +34 972 258 100 entre las 8h30 y las 21h30"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "llamar",
+     "correo",
+     "email",
+     "contacto",
+     "contactar",
+     "hablar",
+     "horario de atencion"
+    ],
+    "ca": [
+     "telefon",
+     "trucar",
+     "correu",
+     "email",
+     "contacte",
+     "contactar",
+     "parlar",
+     "horari d atencio"
+    ],
+    "en": [
+     "phone",
+     "call",
+     "email",
+     " mail",
+     "contact",
+     "speak"
+    ],
+    "fr": [
+     "telephone",
+     "appeler",
+     "email",
+     " mail",
+     "contact",
+     "parler"
+    ]
+   },
+   "a": {
+    "es": "Teléfono +34 972 258 100 (reservas de 8:30 a 21:30) y correo playasol@playasol.com.",
+    "ca": "Telèfon +34 972 258 100 (reserves de 8:30 a 21:30) i correu playasol@playasol.com.",
+    "en": "Phone +34 972 258 100 (reservations 8:30 to 21:30) and email playasol@playasol.com.",
+    "fr": "Téléphone +34 972 258 100 (réservations de 8 h 30 à 21 h 30) et e-mail playasol@playasol.com."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "Tel. (+34) 972 258 100"
+    },
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "playasol@playasol.com"
+    },
+    {
+     "url": "https://playasol.com/es/informacion.html",
+     "quote": "telefónicamente al +34 972 258 100 entre las 8h30 y las 21h30"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "situado",
+     "mapa",
+     "playa",
+     "centro",
+     "llegar",
+     "como llego"
+    ],
+    "ca": [
+     " on ",
+     "adreca",
+     "ubicacio",
+     "situat",
+     "mapa",
+     "platja",
+     "centre",
+     "arribar",
+     "com arribo"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "located",
+     "map",
+     "beach",
+     "centre",
+     "get there",
+     "how do i get"
+    ],
+    "fr": [
+     " ou ",
+     "adresse",
+     "situe",
+     "sur la carte",
+     "plage",
+     "centre",
+     "venir",
+     "comment arriver"
+    ]
+   },
+   "a": {
+    "es": "Está en Platja Pianc, 3 (17488 Cadaqués), en la bahía de Cadaqués, a primera línea de mar y a pocos metros del centro, con una pequeña playa enfrente y rodeado del Parque Natural del Cap de Creus.",
+    "ca": "És a Platja Pianc, 3 (17488 Cadaqués), a la badia de Cadaqués, en primera línia de mar i a pocs metres del centre, amb una petita platja al davant i envoltat pel Parc Natural del Cap de Creus.",
+    "en": "It is at Platja Pianc 3 (17488 Cadaqués), on the bay of Cadaqués, on the seafront and a few metres from the centre, with a small beach in front and surrounded by the Cap de Creus Natural Park.",
+    "fr": "Il est situé à Platja Pianc 3 (17488 Cadaqués), sur la baie de Cadaqués, en première ligne de mer et à quelques mètres du centre, avec une petite plage en face et entouré du Parc naturel du Cap de Creus."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/aviso-legal-y-cookies.html",
+     "quote": "Platja Pianc, nº 3 17488 Cadaqués"
+    },
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "está situado en la bahía de Cadaqués a primera línea de mar"
+    },
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "pequeña playa soleada y tranquila enfrente"
+    },
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "rodeado del Parque Natural del Cap de Creus"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "qué ver",
+   "keys": {
+    "es": [
+     "que ver",
+     "que hacer",
+     "visitar",
+     "cadaques",
+     "dali",
+     "cap de creus",
+     "museo",
+     "peralada",
+     "golf",
+     "excursion"
+    ],
+    "ca": [
+     "que veure",
+     "que fer",
+     "visitar",
+     "cadaques",
+     "dali",
+     "cap de creus",
+     "museu",
+     "peralada",
+     "golf",
+     "excursio"
+    ],
+    "en": [
+     "what to see",
+     "what to do",
+     "visit",
+     "cadaques",
+     "dali",
+     "cap de creus",
+     "museum",
+     "peralada",
+     "golf",
+     "excursion"
+    ],
+    "fr": [
+     "que voir",
+     "que faire",
+     "visiter",
+     "cadaques",
+     "dali",
+     "cap de creus",
+     "musee",
+     "peralada",
+     "golf",
+     "excursion"
+    ]
+   },
+   "a": {
+    "es": "Cadaqués es un pequeño pueblo marinero en el punto más oriental de la Península Ibérica, a 35 km de la frontera francesa. Cerca están Port-Lligat (donde vivió Dalí), el Parque Natural del Cap de Creus, la Casa Dalí, el Museo Dalí de Figueres, las ruinas de Ampurias y Peralada, con golf a 25 km.",
+    "ca": "Cadaqués és un petit poble mariner al punt més oriental de la Península Ibèrica, a 35 km de la frontera francesa. A prop hi ha Port-Lligat (on va viure Dalí), el Parc Natural del Cap de Creus, la Casa Dalí, el Museu Dalí de Figueres, les ruïnes d'Empúries i Peralada, amb golf a 25 km.",
+    "en": "Cadaqués is a small seafaring village at the easternmost point of the Iberian Peninsula, 35 km from the French border. Nearby are Port-Lligat (where Dalí lived), the Cap de Creus Natural Park, the Casa Dalí, the Dalí Museum in Figueres, the ruins of Ampurias and Peralada, with golf 25 km away.",
+    "fr": "Cadaqués est un petit village de pêcheurs au point le plus oriental de la péninsule Ibérique, à 35 km de la frontière française. À proximité se trouvent Port-Lligat (où vécut Dalí), le Parc naturel du Cap de Creus, la Casa Dalí, le Musée Dalí de Figueres, les ruines d'Ampurias et Peralada, avec golf à 25 km."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/cadaques.html",
+     "quote": "Cadaqués es un pequeño pueblo marinero situado en el punto más oriental de la Península Ibérica"
+    },
+    {
+     "url": "https://playasol.com/es/cadaques.html",
+     "quote": "a sólo 35 kilómetros de la frontera francesa"
+    },
+    {
+     "url": "https://playasol.com/es/cadaques.html",
+     "quote": "Salvador Dalí , fijó en Port-Lligat su residencia"
+    },
+    {
+     "url": "https://playasol.com/es/cadaques.html",
+     "quote": "la Casa Dalí"
+    },
+    {
+     "url": "https://playasol.com/es/cadaques.html",
+     "quote": "el Museo Dalí de Figueres"
+    },
+    {
+     "url": "https://playasol.com/es/cadaques.html",
+     "quote": "las ruinas grecorromanas de Ampurias"
+    },
+    {
+     "url": "https://playasol.com/es/cadaques.html",
+     "quote": "a sólo 25 Km. el Golf"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "categoría",
+   "keys": {
+    "es": [
+     "estrella",
+     "categoria",
+     "cuatro estrellas"
+    ],
+    "ca": [
+     "estrella",
+     "estrelles",
+     "categoria",
+     "quatre estrelles"
+    ],
+    "en": [
+     "star",
+     "category",
+     "four star"
+    ],
+    "fr": [
+     "etoile",
+     "etoiles",
+     "d etoiles",
+     "categorie",
+     "quatre etoiles"
+    ]
+   },
+   "a": {
+    "es": "Según su web, es un hotel de cuatro estrellas.",
+    "ca": "Segons la seva web, és un hotel de quatre estrelles.",
+    "en": "According to its website, it is a four-star hotel.",
+    "fr": "Selon son site, c'est un hôtel quatre étoiles."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "El Hotel Playasol, de cuatro estrellas"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K13",
+   "topic": "habitación adaptada",
+   "keys": {
+    "es": [
+     "habitacion adaptada",
+     "adaptad",
+     "accesib",
+     "discapacidad",
+     "silla de ruedas",
+     "minusvalid",
+     "escalon"
+    ],
+    "ca": [
+     "habitacio adaptada",
+     "adaptad",
+     "accessib",
+     "discapacitat",
+     "cadira de rodes",
+     "esglao"
+    ],
+    "en": [
+     "adapted room",
+     "adapted",
+     "accessib",
+     "disabilit",
+     "wheelchair",
+     "steps"
+    ],
+    "fr": [
+     "chambre adaptee",
+     "adapt",
+     "accessib",
+     "handicap",
+     "fauteuil roulant",
+     "marches"
+    ]
+   },
+   "a": {
+    "es": "Hay una habitación adaptada, con reserva previa: es una doble de 2 camas (bajo petición, de matrimonio) con el confort de las vistas al mar, pero sin bañera. Aviso: en las de vista jardín hay 2 escalones entre el baño y la habitación.",
+    "ca": "Hi ha una habitació adaptada, amb reserva prèvia: és una doble de 2 llits (a petició, de matrimoni) amb el confort de les vistes al mar, però sense banyera. Avís: a les de vista jardí hi ha 2 esglaons entre el bany i l'habitació.",
+    "en": "There is an adapted room, by advance booking: a twin room with 2 beds (a double on request) with the comfort of the sea-view rooms, but without a bath. Note: in the garden-view rooms there are 2 steps between the bathroom and the room.",
+    "fr": "Il y a une chambre adaptée, sur réservation préalable : une chambre à 2 lits (lit double sur demande) avec le confort des chambres vue mer, mais sans baignoire. À noter : dans les chambres vue jardin, il y a 2 marches entre la salle de bain et la chambre."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "HABITACION ADAPTADA CON RESERVA PREVIA"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "pero sin bañera"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "Es una habitación doble de 2 camas que bajo petición podemos preparar como cama de matrimonio"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "Entre el baño y la habitación hay 2 escalones"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K14",
+   "topic": "precios",
+   "keys": {
+    "es": [
+     "precio",
+     "tarifa",
+     "cuanto cuesta",
+     "cuanto vale",
+     "euros",
+     "por noche",
+     "barato",
+     "cuanto"
+    ],
+    "ca": [
+     "preu",
+     "tarifa",
+     "quant costa",
+     "quant val",
+     "euros",
+     "per nit",
+     "barat",
+     "quant"
+    ],
+    "en": [
+     "price",
+     "rate",
+     "how much",
+     "euro",
+     "per night",
+     "cheap",
+     " cost"
+    ],
+    "fr": [
+     "prix",
+     "tarif",
+     "combien coute",
+     "combien vaut",
+     "euros",
+     "par nuit",
+     "pas cher",
+     "combien"
+    ]
+   },
+   "a": {
+    "es": "Su web no publica tarifas: consulta precios y disponibilidad en su sistema de reserva online o llamando al +34 972 258 100.",
+    "ca": "La seva web no publica tarifes: consulta preus i disponibilitat al seu sistema de reserva en línia o trucant al +34 972 258 100.",
+    "en": "Their website does not publish rates: check prices and availability in their online booking system or call +34 972 258 100.",
+    "fr": "Leur site ne publie pas de tarifs : consultez prix et disponibilités dans leur système de réservation en ligne ou appelez le +34 972 258 100."
+   },
+   "sources": [
+    {
+     "url": "https://playasol.com/es/informacion.html",
+     "quote": "Reserve ahora su alojamiento con nosotros directamente"
+    },
+    {
+     "url": "https://playasol.com/es/habitaciones.html",
+     "quote": "!€"
+    },
+    {
+     "url": "https://playasol.com/es/",
+     "quote": "!€"
+    }
+   ],
+   "cta": true
+  }
+ ]
+}
